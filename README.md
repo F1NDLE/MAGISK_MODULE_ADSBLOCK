@@ -27,4 +27,3 @@ T-Банк - ```2200701962437361```
 - [@Zackptg5](https://github.com/Zackptg5/MMT-Extended) For Magisk Template
 - [OISD](https://oisd.nl/) HOSTS файл
 - [1Hosts](https://github.com/badmojr/1Hosts) HOSTS файл
-- [Anti-Porn](https://github.com/4skinSkywalker/Anti-Porn-HOSTS-File/) HOSTS файл
