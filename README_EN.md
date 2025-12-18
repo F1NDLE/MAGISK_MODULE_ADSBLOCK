@@ -24,4 +24,3 @@ Thank you in advance for every donation :)
 - [@Zackptg5](https://github.com/Zackptg5/MMT-Extended) For Magisk Template
 - [OISD](https://oisd.nl/) HOSTS file
 - [1Hosts](https://github.com/badmojr/1Hosts) HOSTS file
-- [Anti-Porn](https://github.com/4skinSkywalker/Anti-Porn-HOSTS-File/) HOSTS file
