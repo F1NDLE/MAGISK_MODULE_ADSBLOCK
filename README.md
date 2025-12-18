@@ -1,6 +1,8 @@
 # MAGISK_MODULE_ADSBLOCK
 Magisk модуль для полной блокировки рекламы, путем замены hosts 
 
+[ENGLISH VERSION README.md](https://github.com/F1NDLE/MAGISK_MODULE_ADSBLOCK/blob/main/README_EN.md)
+
 
 # Плюсы 
 > 1.Быстрота установки
